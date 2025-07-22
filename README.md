@@ -1,4 +1,4 @@
-
+[![DOI](https://zenodo.org/badge/1023628616.svg)](https://doi.org/10.5281/zenodo.16334121)
 # Blink Reflex R1 AID
 This repository contains the code used to generate the Blink Reflex R1 Algorithmic Intraoperative Detection (R1-AID) Model for the manuscript "Interpretable Machine Learning Identification of Blink Reflex responses during Cerebellopontine Angle Surgery".
 It provides functionality for 
