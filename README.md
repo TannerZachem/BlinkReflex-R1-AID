@@ -7,7 +7,7 @@ It provides functionality for
 3. Performance Analysis (ModelAnalysis.py)
 
 ## Requirements
-To run this code, you will ened the following packages (found in ```requirements.txt```):
+To run this code, you will need the following packages (found in ```requirements.txt```):
 ```
 imbalanced_learn==0.12.4
 matplotlib==3.10.3
